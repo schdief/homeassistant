@@ -27,7 +27,7 @@ homeassistant:
 ```
 
 ### ISM7MQTT
-(not tried): https://github.com/b3nn0/hassio-addon-ism7mqtt?tab=readme-ov-file
+alternative if Wolf Link is not reliable enough, failed on first try, needs troubleshooting: https://github.com/b3nn0/hassio-addon-ism7mqtt?tab=readme-ov-file
 
 ## pv
 https://www.photovoltaikforum.com/wissen/entry/88-quick-and-dirty-einbindung-solax-qcells-wr-via-wifi-stick-in-homeassistant-einri/
